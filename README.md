@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on getting an internship please send help
-- 🌱 I’m currently learning about visual graphics through the university course COMP30019 Graphics and Interaction
+- 🌱 I'm currently at the University of Melbourne, studying Artificial Intelligence and Machine Learning
 - 📫 How to reach me: junyyeo@gmail.com
 
 [![Junyynyyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=junyynyyn&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
